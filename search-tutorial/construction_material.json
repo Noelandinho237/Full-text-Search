@@ -1,0 +1,114 @@
+ [
+  {
+    "name": "Concrete",
+    "price_usd": 100,
+    "how_to_use": "Mix with water and aggregates like sand and gravel to form concrete for foundations, walls, and pavements.",
+    "functions": ["Building foundation", "Paving", "Structural support"],
+    "description": "Concrete is a composite material made from cement, water, and aggregates. It's widely used in construction for structural components due to its durability and strength.",
+    "where_to_buy": ["Home Depot", "Lowe's", "Local construction suppliers"]
+  },
+  {
+    "name": "Cement",
+    "price_usd": 7.5,
+    "how_to_use": "Used as a binding agent in concrete, mortar, or grout. Mix with sand and water for mortar or with aggregates for concrete.",
+    "functions": ["Binding agent", "Durability", "Structural integrity"],
+    "description": "Cement is a fine powder made from limestone, clay, shells, and silica, used as a key ingredient in making concrete and mortar.",
+    "where_to_buy": ["Home Depot", "Lowe's", "Ace Hardware"]
+  },
+  {
+    "name": "Steel",
+    "price_usd": 2.5,
+    "how_to_use": "Used for structural frames, beams, reinforcement bars (rebar), and supports in construction.",
+    "functions": ["Strength", "Reinforcement", "Load-bearing"],
+    "description": "Steel is a metal alloy made from iron and carbon. It is widely used in construction for its high strength-to-weight ratio and ability to withstand heavy loads.",
+    "where_to_buy": ["Local hardware stores", "Metal suppliers", "Home Depot"]
+  },
+  {
+    "name": "Rebar (Reinforcement bars)",
+    "price_usd": 1.2,
+    "how_to_use": "Placed inside concrete structures to enhance their tensile strength. It is typically embedded within the concrete during pouring.",
+    "functions": ["Strength reinforcement", "Tensile strength", "Prevent cracks in concrete"],
+    "description": "Rebar is a steel bar used in reinforced concrete to increase its strength by providing tensile strength, which concrete alone lacks.",
+    "where_to_buy": ["Home Depot", "Lowe's", "Construction material suppliers"]
+  },
+  {
+    "name": "Wood (Timber)",
+    "price_usd": 3.5,
+    "how_to_use": "Used for framing, flooring, and furniture. Can be cut, nailed, or glued depending on the application.",
+    "functions": ["Structural support", "Decoration", "Furniture"],
+    "description": "Wood is a renewable material derived from trees, used extensively in construction for its versatility, ease of use, and natural appearance.",
+    "where_to_buy": ["Home Depot", "Lowe's", "Local lumber yards"]
+  },
+  {
+    "name": "Bricks",
+    "price_usd": 0.5,
+    "how_to_use": "Used for building walls, chimneys, and other structures. Mortar is used to bond them together.",
+    "functions": ["Building material", "Insulation", "Fire-resistant"],
+    "description": "Bricks are rectangular blocks of fired clay or concrete used in construction for building structures. They offer strength, fire resistance, and thermal insulation.",
+    "where_to_buy": ["Home Depot", "Lowe's", "Local suppliers"]
+  },
+  {
+    "name": "Blocks (Concrete or Cinder blocks)",
+    "price_usd": 1.5,
+    "how_to_use": "Used in construction for walls, foundations, and other structures. They are stacked and bonded with mortar.",
+    "functions": ["Wall construction", "Structural support", "Load-bearing"],
+    "description": "Concrete or cinder blocks are large, hollow or solid blocks made from cement. They are commonly used in constructing walls and foundations.",
+    "where_to_buy": ["Home Depot", "Lowe's", "Concrete suppliers"]
+  },
+  {
+    "name": "Drywall (Plasterboard)",
+    "price_usd": 8,
+    "how_to_use": "Installed as interior walls or ceilings by attaching to wooden or metal studs. Taped and mudded at the seams.",
+    "functions": ["Partition walls", "Ceiling material", "Insulation"],
+    "description": "Drywall is a material used for constructing walls and ceilings in buildings. It consists of a gypsum core sandwiched between paper layers.",
+    "where_to_buy": ["Home Depot", "Lowe's", "Local building material suppliers"]
+  },
+  {
+    "name": "Plywood",
+    "price_usd": 15,
+    "how_to_use": "Used for sheathing, flooring, and furniture. Can be cut and nailed or glued together.",
+    "functions": ["Surface material", "Structural support", "Furniture"],
+    "description": "Plywood is a strong material made by gluing together thin layers of wood veneer, often used in construction for floors, walls, and roofs.",
+    "where_to_buy": ["Home Depot", "Lowe's", "Local lumber yards"]
+  },
+  {
+    "name": "OSB (Oriented Strand Board)",
+    "price_usd": 10,
+    "how_to_use": "Used for sheathing, flooring, and roofing. Can be nailed or screwed into place.",
+    "functions": ["Wall sheathing", "Flooring", "Roofing support"],
+    "description": "OSB is made from strands of wood pressed and bonded together. It is commonly used for sheathing in building construction due to its strength and cost-effectiveness.",
+    "where_to_buy": ["Home Depot", "Lowe's", "Local suppliers"]
+  },
+  {
+    "name": "Insulation (Fiberglass, Foam, or Cellulose)",
+    "price_usd": 1.5,
+    "how_to_use": "Installed between walls, floors, and ceilings to improve energy efficiency and reduce noise.",
+    "functions": ["Thermal insulation", "Soundproofing", "Energy efficiency"],
+    "description": "Insulation materials, such as fiberglass, foam, and cellulose, help maintain temperature regulation within buildings by reducing heat loss or gain.",
+    "where_to_buy": ["Home Depot", "Lowe's", "Insulation suppliers"]
+  },
+  {
+    "name": "Glass",
+    "price_usd": 25,
+    "how_to_use": "Used for windows, doors, and partitions. Can be installed in frames with glazing.",
+    "functions": ["Visibility", "Natural light", "Security"],
+    "description": "Glass is a transparent material used in construction for windows, doors, and decorative elements. It allows natural light into buildings while providing insulation and protection from the elements.",
+    "where_to_buy": ["Home Depot", "Lowe's", "Glass suppliers"]
+  },
+  {
+    "name": "Steel Beams",
+    "price_usd": 100,
+    "how_to_use": "Used for large structural support in buildings. They are placed horizontally across columns to support heavy loads.",
+    "functions": ["Load-bearing", "Structural support", "Strength"],
+    "description": "Steel beams are metal supports used in construction to support large structures. They are essential for framing in high-rise buildings, bridges, and other large constructions.",
+    "where_to_buy": ["Steel suppliers", "Metal distributors", "Home Depot"]
+  },
+  {
+    "name": "Roofing Shingles",
+    "price_usd": 3.2,
+    "how_to_use": "Installed on rooftops to create a waterproof barrier. Laid in overlapping rows from bottom to top.",
+    "functions": ["Weatherproofing", "Aesthetic appearance", "Roof protection"],
+    "description": "Roofing shingles are overlapping pieces of material (usually asphalt or wood) that are installed on roofs to protect the structure from rain and snow.",
+    "where_to_buy": ["Home Depot", "Lowe's", "Roofing suppliers"]
+  }
+]
