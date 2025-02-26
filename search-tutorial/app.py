@@ -163,7 +163,7 @@ def handle_search():
             'must': {
                 'multi_match': {
                     'query': parsed_query,
-                    'fields': ['name', 'summary', 'content'],
+                    'fields': ['name', 'description', 'how_to_use'],
                 }
             }
         }
